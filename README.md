@@ -3,7 +3,7 @@
 Mi nombre es Francisco Serra y soy desarrollador web Fullstack.
 
 Desde chico siempre me interesó la informática, y tuve contacto con la programación cuando cursaba la carrera de Ingenería en Sistemas, utilizando el lenguaje C++. Luego,
-estudié por hobby algunos otros lenguajes como C# y Python, hasta que me volqué de lleno a Javascript y el desarrollo web.
+estudié por hobby otros lenguajes como C# y Python, hasta que me volqué de lleno a Javascript y el desarrollo web.
 
 ## ¿Qué me motiva? :running:
 
