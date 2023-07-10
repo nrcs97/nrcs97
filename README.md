@@ -7,7 +7,7 @@ estudié por hobby otros lenguajes como C# y Python, hasta que me volqué de lle
 
 ## ¿Qué me motiva? :running:
 
-Me gusta encontrar maneras de hacerle la vida más fácil a las personas y programar es una vía fundamental para alcanzar mi objetivo. No solo me interesa encontrar una solución práctica y efectiva, sino también visualmente atractiva. Me interesa siempre posicionarme desde el lado del usuario, entender sus necesidades y crear algo que le permita alcanzar su meta y a la vez disfrutar de una experiencia de uso estéticamente coherente e interactiva.
+Me gusta encontrar maneras de hacerle la vida más fácil a las personas y programar es una herramienta fundamental para alcanzar mi objetivo. No solo me interesa encontrar una solución práctica y efectiva, sino también visualmente atractiva. Me interesa siempre posicionarme desde el lado del usuario, entender sus necesidades y crear algo que le permita alcanzar su meta y a la vez disfrutar de una experiencia de uso estéticamente coherente e interactiva.
 
 ## ¿Qué tecnologías uso? :hotsprings:
 
