@@ -21,5 +21,5 @@ Me gusta encontrar maneras de hacerle la vida más fácil a las personas y progr
 
 ## No dudes en contactarte :wink:
 
-- ```franciscoserracorrea@gmail.com```
+- ```$ franciscoserracorrea@gmail.com```
 - [LinkedIn](https://www.linkedin.com/in/francisco-serra-533087239/)
