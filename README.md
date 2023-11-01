@@ -11,7 +11,7 @@ Me gusta encontrar maneras de hacerle la vida más fácil a las personas y progr
 
 ## ¿Qué tecnologías uso? :hotsprings:
 
-- Javascript
+- Javascript / TypeScript
 - Node.js
 - HTML/CSS
 - React.js y Next.js
